@@ -12,4 +12,6 @@ i looking  for a change from one list to another and a change the db  accordingl
 
 I'm sure there's a more effective and beautiful way to do it
 I would love if you share with me!
+I prefer to submit with this part to complete the task .
+
 
